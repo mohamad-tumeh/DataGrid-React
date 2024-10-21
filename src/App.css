@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.datagrid-container {
+  margin: 20px auto;
+  width: 80%;
+}
+
+.rename-modal {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
