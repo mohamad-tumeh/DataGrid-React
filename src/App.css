@@ -3,10 +3,6 @@
   font-family: Arial, sans-serif;
 }
 
-.datagrid-container {
-  margin: 20px auto;
-  width: 80%;
-}
 
 .rename-modal {
   margin-top: 20px;
@@ -14,3 +10,21 @@
   justify-content: center;
   align-items: center;
 }
+
+
+.custom-header {
+  border: 2px solid #bbb6b6;
+  background-color: #cecccc ;
+  
+}
+
+.custom-header:hover {
+  cursor: pointer;
+  background-color: #cecccc !important;
+}
+
+.hover-row:hover {
+  background-color: #f0f0f0 !important;
+  cursor: pointer;
+}
+
